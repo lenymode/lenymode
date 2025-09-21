@@ -61,7 +61,6 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend flows
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Haylo-lightgrey?style=for-the-badge&logo=internet-explorer)](https://yourportfolio.com)
 
 ---
 
