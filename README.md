@@ -54,7 +54,7 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI an
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=upendra123&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lenymode&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
