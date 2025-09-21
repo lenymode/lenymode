@@ -60,7 +60,7 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI an
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allensingha/)
 
 ---
 
