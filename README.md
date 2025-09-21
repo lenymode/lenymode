@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Upendra  
 A full-stack developer from Bangladesh 🇧🇩  
-I architect scalable, audit-friendly systems with Laravel, polish frontend flows with pastel-themed UI, and automate deployments using GitHub Actions and AWS.
+I architect scalable, audit-friendly systems with Laravel, polish frontend UI and automate deployments using GitHub Actions and AWS.
 
 ---
 
@@ -46,9 +46,9 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend flows
 
 ## 📊 GitHub Stats
 
-![Upendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=upendra123&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=upendra123&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=upendra123&layout=compact)
+![Upendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenymode&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lenymode&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenymode&layout=compact)
 
 ---
 
