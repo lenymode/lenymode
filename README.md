@@ -1,4 +1,4 @@
-# 🚀 Laravel and AWS Practitioner (CLOUD)
+# 🚀 Laravel Developer & AWS-Practitioner
 
 Hi 👋, I'm Upendra  
 A full-stack developer from Bangladesh 🇧🇩  
