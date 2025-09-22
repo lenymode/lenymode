@@ -1,8 +1,8 @@
 # 🚀 Laravel Developer & AWS-Practitioner
 
-Hi 👋, I'm Upendra Singha Allen 
+Hi 👋, I'm Upendra Singha Allen  
 A full-stack developer from Bangladesh 🇧🇩  
-I architect scalable, audit-friendly systems with Laravel, polish frontend UI and automate deployments using GitHub Actions and AWS.
+I architect scalable, audit-friendly systems with Laravel, polish frontend UI, and automate deployments using GitHub Actions and AWS.
 
 ---
 
@@ -18,7 +18,6 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI an
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ---
 
 ## 🛠️ Tools & Platforms
@@ -33,6 +32,22 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI an
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+## 🧪 Design & Database Tools
+
+![Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLyog](https://img.shields.io/badge/SQLyog-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372E2C?style=for-the-badge&logo=sqlite&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🤖 AI & Analytics
+
+![Chatbot](https://img.shields.io/badge/AI_Chatbot-6A1B9A?style=for-the-badge&logo=dialogflow&logoColor=white)
+![Analytics](https://img.shields.io/badge/Data_Analytics-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ---
 
@@ -69,13 +84,15 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI an
 - CI/CD automation with GitHub Actions  
 - AWS EC2, S3, RDS setup and IAM best practices  
 - Modular onboarding flows with conditional logic in Laravel  
-- Audit-friendly deployment pipelines with rollback and backup logic
+- Audit-friendly deployment pipelines with rollback and backup logic  
+- AI-powered chatbots and analytics dashboards
 
 ---
 
 ## 💬 Ask Me About
 
 - Migrating legacy PHP/Yii apps to Laravel  
-- Business Solutions for your Business
+- Business Solutions for your Business  
 - Designing focused on UI/UX, client-friendly dashboards  
-- Troubleshooting PHP, Laravel, Docker, Nginx and SSH-based deployments
+- Troubleshooting PHP, Laravel, Docker, Nginx and SSH-based deployments  
+- Integrating AI tools for automation and analytics
