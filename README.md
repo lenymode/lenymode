@@ -59,6 +59,22 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI, a
 
 ---
 
+## ☁️ Cloud Infrastructure for Web Deployment
+
+I build and manage scalable Laravel applications on AWS using:
+
+- **Amazon EC2** – for hosting Laravel apps on secure, scalable virtual servers  
+- **Amazon RDS** – for managed MySQL databases with automated backups and high availability  
+- **Amazon S3** – for storing assets, backups, and user uploads with lifecycle rules  
+- **Amazon Route 53** – for DNS management, domain routing, and health checks  
+- **IAM Roles & Policies** – for secure access control across services  
+- **Security Groups & VPC** – for firewall rules, network isolation, and traffic control  
+- **Elastic IP & Auto Scaling** – for stable access and dynamic resource allocation  
+- **CloudWatch & Logs** – for monitoring, alerting, and debugging production issues  
+- **SSH & GitHub Actions** – for push-triggered deployments and CI/CD automation
+
+---
+
 ## 📊 GitHub Stats
 
 ![Upendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenymode&show_icons=true&theme=radical)
