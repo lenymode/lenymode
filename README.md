@@ -1,8 +1,8 @@
-# 🚀 Laravel Developer & AWS-Practitioner
+# 🚀 Laravel Developer & AWS Practitioner
 
 Hi 👋, I'm Upendra Singha Allen  
 A full-stack developer from Bangladesh 🇧🇩  
-I architect scalable, audit-friendly systems with Laravel, polish frontend UI, and automate deployments using GitHub Actions and AWS.
+I specialize in architecting scalable, audit-friendly systems with Laravel, crafting polished frontend interfaces, and automating deployments using GitHub Actions and AWS.
 
 ---
 
@@ -33,7 +33,6 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI, a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
 ---
 
 ## 🧪 Database Tools
@@ -41,7 +40,6 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI, a
 ![Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLyog](https://img.shields.io/badge/SQLyog-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372E2C?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 ---
 
@@ -64,22 +62,22 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI, a
 
 I build and manage scalable Laravel applications on AWS using:
 
-- **Amazon EC2** – for hosting Laravel apps on secure, scalable virtual servers  
-- **Amazon RDS** – for managed MySQL databases with automated backups and high availability  
-- **Amazon S3** – for storing assets, backups, and user uploads with lifecycle rules  
-- **Amazon Route 53** – for DNS management, domain routing, and health checks  
-- **IAM Roles & Policies** – for secure access control across services  
-- **Security Groups & VPC** – for firewall rules, network isolation, and traffic control  
-- **Elastic IP & Auto Scaling** – for stable access and dynamic resource allocation  
-- **CloudWatch & Logs** – for monitoring, alerting, and debugging production issues  
-- **SSH & GitHub Actions** – for push-triggered deployments and CI/CD automation
+- **Amazon EC2** – Secure, scalable virtual servers for Laravel hosting  
+- **Amazon RDS** – Managed MySQL databases with automated backups and high availability  
+- **Amazon S3** – Asset and backup storage with lifecycle rules  
+- **Amazon Route 53** – DNS management, domain routing, and health checks  
+- **IAM Roles & Policies** – Secure access control across AWS services  
+- **Security Groups & VPC** – Firewall rules, network isolation, and traffic control  
+- **Elastic IP & Auto Scaling** – Stable access and dynamic resource allocation  
+- **CloudWatch & Logs** – Monitoring, alerting, and debugging production issues  
+- **SSH & GitHub Actions** – Push-triggered deployments and CI/CD automation
 
 ---
 
 ## 📊 GitHub Stats
 
-![Upendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenymode&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lenymode&theme=dark)
+![Upendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenymode&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lenymode&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenymode&layout=compact)
 
 ---
@@ -109,7 +107,7 @@ I build and manage scalable Laravel applications on AWS using:
 ## 💬 Ask Me About
 
 - Migrating legacy PHP/Yii apps to Laravel  
-- Business Solutions for your Business  
-- Designing focused on UI/UX, client-friendly dashboards  
-- Troubleshooting PHP, Laravel, Docker, Nginx and SSH-based deployments  
+- Building business-ready solutions with Laravel and AWS  
+- Designing client-friendly dashboards with a focus on UI/UX  
+- Troubleshooting PHP, Laravel, Docker, Nginx, and SSH-based deployments  
 - Integrating AI tools for automation and analytics
