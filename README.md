@@ -77,7 +77,7 @@ I build and manage scalable Laravel applications on AWS using:
 ## 📊 GitHub Stats
 
 ![Upendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenymode&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lenymode&theme=dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lenymode&theme=react-dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lenymode&layout=compact)
 
 ---
