@@ -36,12 +36,12 @@ I architect scalable, audit-friendly systems with Laravel, polish frontend UI, a
 
 ---
 
-## 🧪 Design & Database Tools
+## 🧪 Database Tools
 
 ![Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLyog](https://img.shields.io/badge/SQLyog-0052CC?style=for-the-badge&logo=databricks&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-372E2C?style=for-the-badge&logo=sqlite&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 
 ---
 
