@@ -58,6 +58,9 @@ I specialize in architecting scalable, audit-friendly systems with Laravel, craf
 
 ---
 
+## 🧰 Competitive Programming
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+
 ## ☁️ Cloud Infrastructure for Web Deployment
 
 I build and manage scalable Laravel applications on AWS using:
