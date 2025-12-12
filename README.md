@@ -112,5 +112,5 @@ I build and manage scalable Laravel applications on AWS using:
 - Migrating legacy PHP/Yii apps to Laravel  
 - Building business-ready solutions with Laravel and AWS  
 - Designing client-friendly dashboards with a focus on UI/UX  
-- Troubleshooting PHP, Laravel, Docker, Nginx, and SSH-based deployments  
+- Troubleshooting PHP, Laravel, Docker, Nginx and SSH-based deployments  
 - Integrating AI tools for automation and analytics
