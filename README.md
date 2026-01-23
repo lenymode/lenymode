@@ -1,4 +1,4 @@
-# 🚀 Laravel Developer & AWS Practitioner
+# 💻 Laravel Developer & AWS Practitioner
 
 Hi 👋, I'm Upendra Singha Allen  
 A full-stack developer from Bangladesh 🇧🇩  
