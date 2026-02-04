@@ -99,7 +99,7 @@ I build and manage scalable Laravel applications on AWS using:
 
 ## 🧠 Currently Learning
 
-- CI/CD automation with GitHub Actions  
+- CI/CD automation with GitHub Actions
 - AWS EC2, S3, RDS setup and IAM best practices  
 - Modular onboarding flows with conditional logic in Laravel  
 - Audit-friendly deployment pipelines with rollback and backup logic  
