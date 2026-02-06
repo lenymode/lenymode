@@ -2,7 +2,7 @@
 
 Hi 👋, I'm Upendra Singha Allen  
 A full-stack developer from Bangladesh 🇧🇩  
-I specialize in architecting scalable, audit-friendly systems with Laravel, crafting polished frontend interfaces, and automating deployments using GitHub Actions and AWS.
+I specialize in architecting scalable, audit-friendly systems with Laravel, crafting polished frontend interfaces and automating deployments using GitHub Actions and AWS.
 
 ---
 
