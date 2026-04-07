@@ -1,4 +1,4 @@
-# 💻 Laravel Developer & AWS Solution Architect Assoc.
+# 💻 Software Engineer & AWS Solution Architect Assoc.
 
 Hi 👋, I'm Upendra Singha Allen  
 A full-stack developer from Bangladesh 🇧🇩  
