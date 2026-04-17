@@ -84,11 +84,7 @@ I build and manage scalable Laravel applications on AWS using:
 
 ---
 
-## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lenymode&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🔗 Connect with Me
 
