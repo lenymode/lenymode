@@ -1,4 +1,4 @@
-# 💻 Software Engineer & AWS Solution Architect Assoc.
+# 💻 Software Engineer & AWS Solution Architect
 
 Hi 👋, I'm Upendra Singha Allen  
 A full-stack developer 🇧🇩  I specialize in architecting scalable, audit-friendly systems with Laravel, crafting polished frontend interfaces and automating deployments using GitHub Actions and AWS.
