@@ -90,15 +90,7 @@ I build and manage scalable Laravel applications on AWS using:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allensingha/)
 
----
 
-## 🧠 Currently Learning
-
-- CI/CD automation with GitHub Actions
-- AWS EC2, S3, RDS setup and IAM best practices  
-- Modular onboarding flows with conditional logic in Laravel  
-- Audit-friendly deployment pipelines with rollback and backup logic  
-- AI-powered chatbots and analytics dashboards
 
 ---
 
