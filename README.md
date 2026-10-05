@@ -1,9 +1,7 @@
 # 💻 Sr. Software Engineer | Full-Stack Developer | Solutions Architect Associate
 
 Hi 👋, I'm Upendra Singha Allen  
-A full-stack developer 🇧🇩  I specialize in architecting scalable, audit-friendly systems with Laravel, crafting polished frontend interfaces and automating deployments using GitHub Actions and AWS.
-
----
+A full-stack developer 🇧🇩  I specialize in architecting scalable, audit-friendly backend systems.
 <!--
 
 ## 🧰 Languages & Frameworks
@@ -90,15 +88,3 @@ I build and manage scalable Laravel applications on AWS using:
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allensingha/)
-
-
-
----
-
-## 💬 Ask Me About
-
-- Migrating legacy PHP/Yii apps to Laravel  
-- Building business-ready solutions with Laravel and AWS  
-- Designing client-friendly dashboards with a focus on UI/UX  
-- Troubleshooting PHP, Laravel, Docker, Nginx and SSH-based deployments  
-- Integrating AI tools for automation and analytics
