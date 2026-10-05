@@ -1,4 +1,4 @@
-# 💻 Sr. Software Engineer | Full-Stack Developer | Solutions Architect Associate
+Sr. Software Engineer | Full-Stack Developer | Solutions Architect Associate
 
 Hi 👋, I'm Upendra Singha Allen  
 A full-stack developer 🇧🇩  I specialize in architecting scalable, audit-friendly backend systems.
