@@ -85,6 +85,5 @@ I build and manage scalable Laravel applications on AWS using:
 
 
 -->
-# 🔗 Connect with Me
-
+Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allensingha/)
