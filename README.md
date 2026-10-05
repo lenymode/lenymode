@@ -4,6 +4,7 @@ Hi 👋, I'm Upendra Singha Allen
 A full-stack developer 🇧🇩  I specialize in architecting scalable, audit-friendly systems with Laravel, crafting polished frontend interfaces and automating deployments using GitHub Actions and AWS.
 
 ---
+<!--
 
 ## 🧰 Languages & Frameworks
 
@@ -19,7 +20,7 @@ A full-stack developer 🇧🇩  I specialize in architecting scalable, audit-fr
 
 ---
 
-## 🛠️ Tools & Platforms
+//* ## 🛠️ Tools & Platforms
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -31,7 +32,7 @@ A full-stack developer 🇧🇩  I specialize in architecting scalable, audit-fr
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
+*//
 ---
 
 ## 🧪 Database Tools
@@ -85,7 +86,7 @@ I build and manage scalable Laravel applications on AWS using:
 ---
 
 
-
+-->
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Upendra-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/allensingha/)
